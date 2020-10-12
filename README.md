@@ -1,8 +1,10 @@
-#Face Detection in Action
+# Face Detection in Action
 
+
+## How It Works
 Object Detection using Haar feature-based cascade classifiers is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. OpenCV already has various pre trained models and in this case I have used the faces.  
 
-Example:
+### Examples
 
 [![testimage.jpg](https://i.postimg.cc/QCndTTq7/testimage.jpg)](https://postimg.cc/dZrFMDpQ)
 
